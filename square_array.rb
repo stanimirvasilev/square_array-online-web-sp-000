@@ -1,7 +1,6 @@
 def square_array(array)
   array.each do |n|
-  n**2
-  new_array[n]
+  n.square
   # your code here
 end
 end
